@@ -10,7 +10,6 @@ This is a **Full Stack E-Commerce Website** built using **MongoDB, Express.js, R
 - 🛍 **Add to Cart & Checkout** – Manage cart and view totals
 - 🔐 **User Authentication** – Signup/Login with JWT-based authentication
 - 🛠 **Admin Panel** – Add, update, and delete products
-- 💳 **Payment Integration** (if implemented)
 - 🌍 **Fully Responsive UI** – Works on all devices
 
 ## 🛠️ **Tech Stack**
